@@ -1,4 +1,5 @@
 Proje 1
+
 [22,27,16,2,18,6] -> Insertion Sort
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2.	Big-O gösterimini yazınız.
@@ -24,7 +25,9 @@ Not: videodaki anlatımla internetten baktığım sort tanımları farklıydı. 
 
 2)
 
-Big-O gösterimi: işlem sayılarını baştan itibaren topladığımızda, n + n-1 + n-2 + … + 1 ile karşılaşırız. Bu sayıların toplamı ise  n.(n+1)/2 = n^2+n /2 'dir. Kısaca: n^2
+Big-O gösterimi: işlem sayılarını baştan itibaren topladığımızda, n + n-1 + n-2 + … + 1 ile karşılaşırız. Bu sayıların toplamı ise 
+
+n.(n+1)/ 2 = n^2 + n / 2 'dir. Kısaca: n^2
 
 ---------------
 3)
