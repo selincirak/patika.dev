@@ -1,1 +1,1 @@
-www.patika.dev 
+www.patika.dev başlangıç projesi
